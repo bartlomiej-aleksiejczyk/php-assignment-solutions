@@ -1,0 +1,4 @@
+czech_gender.php
+Females: 652699 (50.93%)
+Males: 628907 (49.07%)
+Peak Memory Usage: 2097152 bytes
